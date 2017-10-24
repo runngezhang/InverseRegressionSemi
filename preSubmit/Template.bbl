@@ -1,0 +1,141 @@
+\begin{thebibliography}{10}
+
+\bibitem{gannot2001signal}
+Sharon Gannot, David Burshtein, and Ehud Weinstein,
+\newblock ``Signal enhancement using beamforming and nonstationarity with
+  applications to speech,''
+\newblock {\em IEEE Transactions on Signal Processing}, vol. 49, no. 8, pp.
+  1614--1626, 2001.
+
+\bibitem{cohen2004relative}
+Israel Cohen,
+\newblock ``Relative transfer function identification using speech signals,''
+\newblock {\em IEEE Transactions on Speech and Audio Processing}, vol. 12, no.
+  5, pp. 451--459, 2004.
+
+\bibitem{talmon2009relative}
+Ronen Talmon, Israel Cohen, and Sharon Gannot,
+\newblock ``Relative transfer function identification using convolutive
+  transfer function approximation,''
+\newblock {\em IEEE Transactions on audio, speech, and language processing},
+  vol. 17, no. 4, pp. 546--555, 2009.
+
+\bibitem{taseska2015relative}
+Maja Taseska and Emanuel~AP Habets,
+\newblock ``Relative transfer function estimation exploiting instantaneous
+  signals and the signal subspace,''
+\newblock in {\em 23rd European Signal Processing Conference (EUSIPCO)}. IEEE,
+  2015, pp. 404--408.
+
+\bibitem{li2015estimation}
+Xiaofei Li, Laurent Girin, Radu Horaud, and Sharon Gannot,
+\newblock ``Estimation of relative transfer function in the presence of
+  stationary noise based on segmental power spectral density matrix
+  subtraction,''
+\newblock in {\em IEEE International Conference onAcoustics, Speech and Signal
+  Processing (ICASSP)}. IEEE, 2015, pp. 320--324.
+
+\bibitem{talmon2013relative}
+Ronen Talmon and Sharon Gannot,
+\newblock ``Relative transfer function identification on manifolds for
+  supervised {GSC} beamformers,''
+\newblock in {\em Proceedings of the 21st European Signal Processing Conference
+  (EUSIPCO)}. IEEE, 2013, pp. 1--5.
+
+\bibitem{koldovsky2013semi}
+Zbyn{\v{e}}k Koldovsk{\`y}, Petr Tichavsk{\`y}, Francesco Nesta, et~al.,
+\newblock ``Semi-blind noise extraction using partially known position of the
+  target source,''
+\newblock {\em IEEE Transactions on Audio, Speech, and Language Processing},
+  vol. 21, no. 10, pp. 2029--2041, 2013.
+
+\bibitem{allen1979image}
+Jont~B Allen and David~A Berkley,
+\newblock ``Image method for efficiently simulating small-room acoustics,''
+\newblock {\em The Journal of the Acoustical Society of America}, vol. 65, no.
+  4, pp. 943--950, 1979.
+
+\bibitem{samarasinghe2015efficient}
+Prasanga Samarasinghe, Thushara Abhayapala, Mark Poletti, and Terence Betlehem,
+\newblock ``An efficient parameterization of the room transfer function,''
+\newblock {\em IEEE/ACM Transactions on Audio, Speech and Language Processing
+  (TASLP)}, vol. 23, no. 12, pp. 2217--2227, 2015.
+
+\bibitem{mignot2014low}
+Remi Mignot, Gilles Chardon, and Laurent Daudet,
+\newblock ``Low frequency interpolation of room impulse responses using
+  compressed sensing,''
+\newblock {\em IEEE/ACM Transactions on Audio, Speech and Language Processing
+  (TASLP)}, vol. 22, no. 1, pp. 205--216, 2014.
+
+\bibitem{rtfinv2017}
+Ziteng Wang, Emmanuel Vincent, and Yonghong Yan,
+\newblock ``Relative transfer function inverse regression from low dimensional
+  manifold,''
+\newblock {\em arXiv preprint}, 2017.
+
+\bibitem{vincent2013second}
+Emmanuel Vincent, Jon Barker, Shinji Watanabe, Jonathan Le~Roux, Francesco
+  Nesta, and Marco Matassoni,
+\newblock ``The second ‘{CHiME}’ speech separation and recognition
+  challenge: Datasets, tasks and baselines,''
+\newblock in {\em IEEE International Conference on Acoustics, Speech and Signal
+  Processing (ICASSP)}. IEEE, 2013, pp. 126--130.
+
+\bibitem{deleforge20122d}
+Antoine Deleforge and Radu Horaud,
+\newblock ``{2D} sound-source localization on the binaural manifold,''
+\newblock in {\em IEEE International Workshop on Machine Learning for Signal
+  Processing (MLSP)}. IEEE, 2012, pp. 1--6.
+
+\bibitem{laufer2013relative}
+Bracha Laufer, Ronen Talmon, and Sharon Gannot,
+\newblock ``Relative transfer function modeling for supervised source
+  localization,''
+\newblock in {\em IEEE Workshop on Applications of Signal Processing to Audio
+  and Acoustics (WASPAA)}. IEEE, 2013, pp. 1--4.
+
+\bibitem{deleforge2015acoustic}
+Antoine Deleforge, Florence Forbes, and Radu Horaud,
+\newblock ``Acoustic space learning for sound-source separation and
+  localization on binaural manifolds,''
+\newblock {\em International Journal of Neural Systems}, vol. 25, no. 01, 2015.
+
+\bibitem{laufer2016mr}
+Bracha Laufer, Ronen Talmon, and Sharon Gannot,
+\newblock ``Semi-supervised sound source localization based on manifold
+  regularization,''
+\newblock {\em IEEE/ACM Transactions on Audio, Speech and Language Processing
+  (TASLP)}, vol. 24, no. 8, pp. 1393--1407, 2016.
+
+\bibitem{Yang2016Revisiting}
+Zhilin Yang, William~W. Cohen, and Ruslan Salakhutdinov,
+\newblock ``Revisiting semi-supervised learning with graph embeddings,''
+\newblock in {\em International Conference on Machine Learning}, 2016, pp.
+  40--48.
+
+\bibitem{ba2016layer}
+Jimmy~Lei Ba, Jamie~Ryan Kiros, and Geoffrey~E Hinton,
+\newblock ``Layer normalization,''
+\newblock {\em arXiv preprint arXiv:1607.06450}, 2016.
+
+\bibitem{kingma2014adam}
+Diederik Kingma and Jimmy Ba,
+\newblock ``Adam: A method for stochastic optimization,''
+\newblock {\em arXiv preprint arXiv:1412.6980}, 2014.
+
+\bibitem{th2017acoustic}
+Sunil Thulasidasan and Jeffrey Bilmes,
+\newblock ``Acoustic classification using semi-supervised deep neural networks
+  and stochastic entropy-regularization over nearest-neighbor graphs,''
+\newblock in {\em IEEE International Conference on Acoustics, Speech and Signal
+  Processing (ICASSP)}. IEEE, 2017, pp. 2731--2735.
+
+\bibitem{rirge}
+Emanuel~AP Habets,
+\newblock ``Room impulse response (rir) generator,''
+\newblock {\em Available online:
+  https://www.audiolabs-erlangen.de/fau/professor/habets/software/rir-generator},
+  2014.
+
+\end{thebibliography}
