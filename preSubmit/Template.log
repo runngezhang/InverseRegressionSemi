@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.12)  24 OCT 2017 18:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.12)  25 OCT 2017 13:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -278,7 +278,7 @@ Here is how much of TeX's memory you used:
  5773 multiletter control sequences out of 15000+600000
  24911 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,16n,25p,1313b,310s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,16n,25p,1684b,310s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:
 /texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><d:/texlive/2
 017/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><d:/texlive/2017/t
@@ -296,7 +296,7 @@ amsfonts/cm/cmti9.pfb><d:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.
 pfb><d:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><d:/texlive/2
 017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><d:/texlive/2017/texmf-dist/fon
 ts/type1/urw/times/utmri8a.pfb>
-Output written on Template.pdf (5 pages, 298659 bytes).
+Output written on Template.pdf (5 pages, 299071 bytes).
 PDF statistics:
  201 PDF objects out of 1000 (max. 8388607)
  135 compressed objects within 2 object streams
